@@ -1,4 +1,3 @@
-from pypokerengine.players import BasePokerPlayer
 from pypokerengine.utils.card_utils import gen_cards, estimate_hole_card_win_rate
 
 def estimate_win_rate(first_card, second_card, nb_players):

@@ -1,10 +1,8 @@
 import tkinter
-
-import numpy as np
 from tkinter import *
 import pokerVision
 
-
+#GUI for the the program
 
 master = Tk()
 myText = StringVar()
